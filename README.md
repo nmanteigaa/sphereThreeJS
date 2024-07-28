@@ -1,6 +1,6 @@
 # sphereThreeJS
-I followed a tutorial from YouTube to introduce myself into Javascript again and to learn ThreeJS
-This tutorial is about making a website to move an sphere 
+I followed a tutorial from YouTube to introduce myself into Javascript again and to learn ThreeJS.
+This tutorial is about making a website to move an sphere.
 
 
 Commands I used:
