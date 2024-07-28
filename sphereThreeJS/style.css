@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html{
+  overflow-y: hidden;   /* all of this is for the web not to show the ugly white borders */
+}
